@@ -8,7 +8,7 @@ export const CONFIG = {
     SUB_WORKER_URL: '',
     SUBSCRIBER_URL: '',
     QUICK_SUB_URL: '',
-    DEFAULT_TEMPLATE_URL: 'https://raw.githubusercontent.com/gcl52/gcl52-MyClashRule-provider/refs/heads/main/remote%20config',
+    DEFAULT_TEMPLATE_URL: 'https://raw.githubusercontent.com/gcl52/gcl52-MyClashRule-provider/refs/heads/main/remote%20config.txt',
 
     // 认证配置
     DEFAULT_USERNAME: 'admin',
